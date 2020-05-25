@@ -1,6 +1,6 @@
 {
   "name": "examples",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "private": true,
@@ -27,6 +27,6 @@
     "webpack-merge": "^4.2.2"
   },
   "dependencies": {
-    "allenzc-tools": "^0.0.2"
+    "allenzc-tools": "^0.0.3"
   }
 }
