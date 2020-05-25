@@ -13,7 +13,9 @@
     "eslint-plugin-vue": "^6.2.2",
     "husky": "^4.2.5",
     "lerna": "^3.21.0",
-    "prettier": "^2.0.5"
+    "prettier": "^2.0.5",
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^8.3.4"
   },
   "workspaces": [
     "packages/*",
@@ -29,7 +31,8 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "yarn run lint"
+      "pre-commit": "yarn run lint",
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
   }
 }
