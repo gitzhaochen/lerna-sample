@@ -1,3 +1,3 @@
 import { zgTools } from 'allenzc-tools'
 
-setTimeout(zgTools, 3000)
+setTimeout(zgTools, 4000)
