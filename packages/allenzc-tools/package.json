@@ -1,6 +1,6 @@
 {
   "name": "allenzc-tools",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "",
   "license": "ISC",
   "main": "lib/index.js",
