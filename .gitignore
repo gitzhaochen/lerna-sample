@@ -1,0 +1,8 @@
+.DS_Store
+*/.DS_Store
+node_modules/
+dist/
+.idea/
+.cache/
+*.log
+dist-babel.js
