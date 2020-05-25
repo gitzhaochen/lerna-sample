@@ -1,13 +1,11 @@
 {
   "name": "allenzc-tools",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "",
   "license": "ISC",
   "main": "lib/index.js",
   "files": [
     "lib"
   ],
-  "scripts": {},
-  "devDependencies": {},
-  "dependencies": {}
+  "scripts": {}
 }
