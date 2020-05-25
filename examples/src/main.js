@@ -1,3 +1,3 @@
-class B {}
-let a = { x: 1 }
-alert(a?.x, B)
+import { zgTools } from 'allenzc-tools'
+
+setTimeout(zgTools, 3000)
