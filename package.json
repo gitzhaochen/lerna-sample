@@ -6,6 +6,8 @@
     "@babel/core": "^7.9.6",
     "@babel/plugin-transform-runtime": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^8.3.4",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.1.0",
     "eslint-config-prettier": "^6.11.0",
@@ -13,9 +15,7 @@
     "eslint-plugin-vue": "^6.2.2",
     "husky": "^4.2.5",
     "lerna": "^3.21.0",
-    "prettier": "^2.0.5",
-    "@commitlint/cli": "^8.3.5",
-    "@commitlint/config-conventional": "^8.3.4"
+    "prettier": "^2.0.5"
   },
   "workspaces": [
     "packages/*",

@@ -26,6 +26,6 @@
     "webpack-merge": "^4.2.2"
   },
   "dependencies": {
-    "zg-tools": "1.0.0"
+    "allenzc-tools": "0.0.1"
   }
 }

@@ -1,3 +1,3 @@
-import { zgTools } from 'zg-tools'
-
-setTimeout(zgTools, 3000)
+class B {}
+let a = { x: 1 }
+alert(a?.x, B)

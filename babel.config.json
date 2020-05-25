@@ -1,4 +1,5 @@
 {
+  "babelrcRoots": [".", "packages/*", "examples"],
   "presets": [
     [
       "@babel/preset-env",
