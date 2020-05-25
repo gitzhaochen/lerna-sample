@@ -5,7 +5,7 @@
   "version": "independent",
   "command": {
     "publish": {
-      "ignoreChanges": ["examples/*", "*.md"],
+      "ignoreChanges": ["examples/**", "*.md"],
       "message": "chore(release): publish %v",
       "registry": "https://registry.npmjs.org/"
     }
